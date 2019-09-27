@@ -1,4 +1,4 @@
-# StorageFile-Java-bug-getStatistics
+# StorageFile-Java-Issue
 Method "setAccessPolicy" doesn't work when use SASTokenCredential
 
 # Reproduce this issue
