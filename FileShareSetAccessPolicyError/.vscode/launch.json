@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - repo",
+            "request": "launch",
+            "mainClass": "repo",
+            "projectName": "key-vault-java-manage-key-vaults"
+        }
+    ]
+}
