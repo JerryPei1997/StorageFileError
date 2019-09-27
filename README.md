@@ -6,7 +6,7 @@ Method "setAccessPolicy" doesn't work when use SASTokenCredential
 
 - git clone https://github.com/JerryPei1997/StorageFileError.git
 
-- set your  SASTOKEN and Account Name in the code. 
+- set your  SASToken , AccountName and ShareName in the code. 
 
 - In Visual Studio Code, Open-Folder your project file and run...
 
